@@ -1,0 +1,4 @@
+__pycache__/
+suno_bark.egg-info/
+./backend/node_modules
+./frontend/node_modules
